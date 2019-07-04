@@ -17,4 +17,5 @@ ln -s ${PWD}/ssm-session /PATH/TO/bin
 
 ## Run
 ### Start session
-1. `ssm-session start`
+1. Set AWS credentials.
+2. `ssm-session start`
